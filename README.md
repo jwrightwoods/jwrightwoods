@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jwrightwoods
+- 👀 I’m interested in Web3 and building applications for creators. 
+- 🌱 I’m currently improving my python and OOP skills. 
+- 📫 How to reach me: 16jdw5@queensu.ca
